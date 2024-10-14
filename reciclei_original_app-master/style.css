@@ -312,7 +312,10 @@ img {
     }
 
     .content h3 {
-        font-size: 3.5rem;
+        color: #08632b;
+        font-size: 13px !important;
+        margin-left: -120px;
+        
     }
 
     .btn {
